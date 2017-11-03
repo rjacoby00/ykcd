@@ -46,7 +46,7 @@ function urlB64ToUint8Array(base64String) {
 if ('serviceWorker' in navigator && 'PushManager' in window) {
   console.log('Service Worker and Push is supported');
 
-  navigator.serviceWorker.register('sw.js')
+  navigator.serviceWorker.register('https://rawgit.com/rjacoby00/rjnotify_pyth/master/sw.js')
   .then(function(swReg) {
     console.log('Service Worker is registered', swReg);
 
@@ -101,7 +101,7 @@ function updateBtn() {
 
   pushButton.disabled = false;
 }
-navigator.serviceWorker.register('sw.js')
+navigator.serviceWorker.register('https://rawgit.com/rjacoby00/rjnotify_pyth/master/sw.js')
 .then(function(swReg) {
   console.log('Service Worker is registered', swReg);
 
