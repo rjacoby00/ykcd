@@ -28,7 +28,7 @@ def index():
     <p>Welcome to RJ Notify.  Press the button below to join and get a key.</p>
     <p>
       <button disabled class="js-push-btn mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect">
-        Enable Push RJ Notify
+        Enable RJ Notify
       </button>
     </p>
     <section class="subscription-details js-subscription-details is-invisible">
