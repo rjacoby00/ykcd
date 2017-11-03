@@ -36,7 +36,7 @@ def index():
       <pre><code class="js-subscription-json"></code></pre>
     </section>
   </main>
-
+  <script src="https://rawgit.com/rjacoby00/rjnotify_pyth/master/sw.js"></script>
   <script src="https://rawgit.com/rjacoby00/rjnotify_pyth/master/scripts/main.js"></script>
 
   <script src="https://code.getmdl.io/1.2.1/material.min.js"></script>
