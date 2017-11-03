@@ -15,7 +15,7 @@ def index():
   <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
   <link rel="stylesheet" href="https://code.getmdl.io/1.2.1/material.indigo-pink.min.css">
   <script defer src="https://code.getmdl.io/1.2.1/material.min.js"></script>
-  <link rel="stylesheet" href="styles/index.css">
+  <link rel="stylesheet" href="https://rawgit.com/rjacoby00/rjnotify_pyth/master/styles/index.css">
 </head>
 
 <body>
@@ -37,7 +37,7 @@ def index():
     </section>
   </main>
 
-  <script src="scripts/main.js"></script>
+  <script src="https://rawgit.com/rjacoby00/rjnotify_pyth/master/scripts/main.js"></script>
 
   <script src="https://code.getmdl.io/1.2.1/material.min.js"></script>
 </body>
