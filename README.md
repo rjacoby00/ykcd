@@ -1,2 +1,2 @@
-# rjnotify_pyth
-Python flask server for https://rjnotify.herokuapp.com/
+# YKCD
+Web test for https://ykcd.herokuapp.com/
