@@ -24,10 +24,7 @@ def index():
   </header>
 
   <main>
-    <p>Welcome to RJ Notify.  Press the button below to join and get a key.</p>
-    <p>
-    	Welcome to ykcd, the pointless site.
-    </p>
+    <p>Welcome to ykcd, the pointless site.</p>
   </main>
 </body>
 </html>
